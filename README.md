@@ -1,2 +1,3 @@
 # Banque
- Just a something
+
+A simple python code to understand Blockchain 
